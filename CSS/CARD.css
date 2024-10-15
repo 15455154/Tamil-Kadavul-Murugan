@@ -18,8 +18,8 @@
     left: -2px;
     top: -2px;
     border-radius: 10px;
-    background: linear-gradient(45deg, #fb0094, #0000ff, #00ff00, #ffff00, #ff0000, #fb0094, 
-          #0000ff, #00ff00, #ffff00, #ff0000);
+    background: linear-gradient(45deg, #65CCB8, #57BA98, #3B945E, #F2F2F2, #15d9ab, 
+          #0089af, #1acaa1, #10c0d7, #00b7ff);
     background-size: 400%;
     width: calc(100% + 4px);
     height: calc(100% + 4px);
